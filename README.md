@@ -1,4 +1,4 @@
-# 项目描述 | Project Description
+# 项目描述 | 开源AI本地化知识库
 
 ## 中文简介
 
